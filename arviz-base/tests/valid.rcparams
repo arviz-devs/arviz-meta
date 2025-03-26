@@ -1,0 +1,5 @@
+data.http_protocol : http
+plot.max_subplots  : 30
+plot.backend : bokeh
+plot.max_subplots : 20
+stats.point_estimate : median
